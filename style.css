@@ -1,0 +1,16 @@
+#content{
+    background-color: #83eaff;
+    width: 200px;
+    height: 100px;
+    font-family: Verdana, Tahoma, sans-serif;
+    font-size: 14px;
+    margin: 50px;
+}
+
+.other-text {
+    background-color: antiquewhite;
+}
+
+#este-parrafo .other-text {
+    background-color: aqua;
+}

@@ -11,6 +11,6 @@
     background-color: antiquewhite;
 }
 
-#este-parrafo .other-text {
-    background-color: aqua;
+p#esteparrafo .other-text {
+    background-color: black !important;
 }
